@@ -7,17 +7,17 @@ This project focuses on understanding how to use LLMs from Python. My ```docsum.
 
 ## How to run my docsum.py file:
 ```
-$ python3 topic10/docsum/docs/news-mx.html
+$ python3 docsum.py docs/news-mx.html
 ```
 ```
-$ python3 topic10/docsum/docs/constitution-mx.txt
+$ python3 docsum.py docs/constitution-mx.txt
 ```
 ```
-$ python3 topic10/docsum/docs/research_paper.pdf
+$ python3 docsum.py docs/research_paper.pdf
 ```
 ```
-$ python3 https://elpais.com/us/
+$ python3 docsum.py https://elpais.com/us/
 ```
 ```
-$ python3 https://www.cmc.edu/sites/default/files/about/images/20170213-cube.jpg
+$ python3 docsum.py https://www.cmc.edu/sites/default/files/about/images/20170213-cube.jpg
 ```
