@@ -6,7 +6,7 @@ This project focuses on understanding how to use LLMs from Python. My ```docsum.
 
 
 ## How to run my docsum.py file:
-```
+``` 
 $ python3 docsum.py docs/news-mx.html
 The text contains a mix of code snippets, articles, and metadata from various sources, including JSON objects, HTML/CSS code, and news articles. The code snippets seem to be from different web applications, while the news articles discuss topics like immigration and the US Supreme Court.
 ```

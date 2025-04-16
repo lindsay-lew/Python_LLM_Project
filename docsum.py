@@ -133,7 +133,7 @@ if __name__ == '__main__':
             return base64.b64encode(image_file.read()).decode('utf-8')
 
     # Path to your image
-    image_path = "topic10/docsum/images/google.jpg"
+    image_path = "images/google.jpg"
 
     # Getting the base64 string
     base64_image = encode_image(image_path)
