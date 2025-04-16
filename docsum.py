@@ -105,7 +105,7 @@ if __name__ == '__main__':
                 "content": [
                     {
                         "type": "text",
-                        "text": "Cube image"
+                        "text": "Explain and describe what is in this image of the cube in 3 sentences, using English only. No HTML or formatting tags."
                     },
 
                     {
