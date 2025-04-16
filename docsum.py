@@ -156,7 +156,7 @@ if __name__ == '__main__':
             }
         ],
 
-        model="llama-3.2-11b-vision-preview",
+        model="meta-llama/llama-4-scout-17b-16e-instruct",
     )
     print(chat_completion.choices[0].message.content)
 
